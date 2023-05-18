@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>S.def50a80-f2e4-11ed-9487-dc1ba1c60254.jpg</filename>
+	<path>C:\Users\Lenovo\RealTimeObjectDetection\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\S.def50a80-f2e4-11ed-9487-dc1ba1c60254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>141</ymin>
+			<xmax>369</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

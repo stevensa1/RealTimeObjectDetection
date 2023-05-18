@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>P.8dbb2ec4-f2e4-11ed-a0fa-dc1ba1c60254.jpg</filename>
+	<path>C:\Users\Lenovo\RealTimeObjectDetection\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\P.8dbb2ec4-f2e4-11ed-a0fa-dc1ba1c60254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>161</ymin>
+			<xmax>517</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
