@@ -44,61 +44,61 @@ item {
 }
 item { 
 	name:'L'
-	id:14
+	id:12
 }
 item { 
 	name:'M'
-	id:15
+	id:13
 }
 item { 
 	name:'N'
-	id:16
+	id:14
 }
 item { 
 	name:'O'
-	id:17
+	id:15
 }
 item { 
 	name:'P'
-	id:18
+	id:16
 }
 item { 
 	name:'Q'
-	id:19
+	id:17
 }
 item { 
 	name:'R'
-	id:20
+	id:18
 }
 item { 
 	name:'S'
-	id:21
+	id:19
 }
 item { 
 	name:'T'
-	id:22
+	id:20
 }
 item { 
 	name:'U'
-	id:23
+	id:21
 }
 item { 
 	name:'V'
-	id:24
+	id:22
 }
 item { 
 	name:'W'
-	id:25
+	id:23
 }
 item { 
 	name:'X'
-	id:26
+	id:24
 }
 item { 
 	name:'Y'
-	id:27
+	id:25
 }
 item { 
 	name:'Z'
-	id:28
+	id:26
 }
